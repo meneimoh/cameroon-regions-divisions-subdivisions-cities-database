@@ -1,1 +1,1 @@
-"# cameroon-states-regions-subdivisions-cities-database" 
+"# cameroon-regions-divisions-subdivisions-cities-database" 
