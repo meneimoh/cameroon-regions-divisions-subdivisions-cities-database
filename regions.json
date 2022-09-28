@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Adamawa",
+		"state_code": "AD",
+		"capital": "Ngaoundéré"
+	},
+	{
+		"id": 2,
+		"name": "Centre",
+		"state_code": "CE",
+		"capital": "Yaounde"
+	},
+	{
+		"id": 3,
+		"name": "East",
+		"state_code": "ES",
+		"capital": "Bertoua"
+	},
+	{
+		"id": 4,
+		"name": "Extreme North",
+		"state_code": "EN",
+		"capital": "Maroua"
+	},
+	{
+		"id": 5,
+		"name": "Littoral",
+		"state_code": "LT",
+		"capital": "Douala"
+	},
+	{
+		"id": 6,
+		"name": "North",
+		"state_code": "NO",
+		"capital": "Garoua"
+	},
+	{
+		"id": 7,
+		"name": "North West",
+		"state_code": "NW",
+		"capital": "Bamenda"
+	},
+	{
+		"id": 8,
+		"name": "West",
+		"state_code": "OU",
+		"capital": "Bafoussam"
+	},
+	{
+		"id": 9,
+		"name": "South",
+		"state_code": "SU",
+		"capital": "Ebolowa"
+	},
+	{
+		"id": 10,
+		"name": "South West",
+		"state_code": "SW",
+		"capital": "Buea"
+	}
+]
